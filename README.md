@@ -1,5 +1,5 @@
 Functional Connectivity Methods.
-The notebook "FC_Methods.ipynb" provides several functional connectivity (FC) assessment measures, utilized in this paper.\\
+The notebook "FC_Methods.ipynb" provides several functional connectivity (FC) assessment measures, utilized in this paper.\
 The methods include:
 
 1. Full Correlation (Corr)
