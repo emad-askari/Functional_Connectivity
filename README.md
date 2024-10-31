@@ -10,6 +10,7 @@ The methods include:
   6. Zero-lag/Instantaneous Regression (0-lagReg)
   7. Pair-Wise Granger Causality (pwGC)
   8. Geweke's Granger Causality (GGC)
-  9. Directed Transfer Function (DTF): averaged across all frequencies
+  9. Directed Transfer Function (DTF): averaged over frequencies up to a specified limit
+
 
 *Each function includes adjustable parameters for customization.
