@@ -31,8 +31,8 @@ For guidance on using the methods, refer to the `FC_Methods_tutorial.ipynb` file
 While initially developed for analyzing FC in brain signals, this package can be used for any dynamic network.
 
 ## Citation
-If you use this package in your work, please cite the associated paper:  
+If you use this package in your work, please cite the associated papers:
 [Link to paper](https://www.biorxiv.org/content/10.1101/2024.09.29.615715v1.abstract)
 
 ## Support
-For further help or to discuss interesting use cases, feel free to reach out via email.
+For further help or to discuss any interesting stuff, feel free to reach out via email.
